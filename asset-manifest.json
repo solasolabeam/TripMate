@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ffa3970.css",
-    "main.js": "/static/js/main.3e821b16.js",
-    "static/js/453.549189ad.chunk.js": "/static/js/453.549189ad.chunk.js",
-    "static/media/yangjin.otf": "/static/media/yangjin.e0951f0ecb285f558f7c.otf",
-    "static/media/GmarketSansBold.otf": "/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
-    "static/media/GmarketSansMedium.otf": "/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
-    "static/media/GmarketSansLight.otf": "/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
-    "static/media/NanumSquareR.ttf": "/static/media/NanumSquareR.2bd945c322ca72197165.ttf",
-    "static/media/No_Image_Available.jpg": "/static/media/No_Image_Available.e1ce751ef1b590f719f9.jpg",
-    "index.html": "/index.html",
-    "main.8ffa3970.css.map": "/static/css/main.8ffa3970.css.map",
-    "main.3e821b16.js.map": "/static/js/main.3e821b16.js.map",
-    "453.549189ad.chunk.js.map": "/static/js/453.549189ad.chunk.js.map"
+    "main.css": "/TripMate/static/css/main.6468424e.css",
+    "main.js": "/TripMate/static/js/main.4925799d.js",
+    "static/js/453.549189ad.chunk.js": "/TripMate/static/js/453.549189ad.chunk.js",
+    "static/media/yangjin.otf": "/TripMate/static/media/yangjin.e0951f0ecb285f558f7c.otf",
+    "static/media/GmarketSansBold.otf": "/TripMate/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/TripMate/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/TripMate/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
+    "static/media/NanumSquareR.ttf": "/TripMate/static/media/NanumSquareR.2bd945c322ca72197165.ttf",
+    "static/media/No_Image_Available.jpg": "/TripMate/static/media/No_Image_Available.e1ce751ef1b590f719f9.jpg",
+    "index.html": "/TripMate/index.html",
+    "main.6468424e.css.map": "/TripMate/static/css/main.6468424e.css.map",
+    "main.4925799d.js.map": "/TripMate/static/js/main.4925799d.js.map",
+    "453.549189ad.chunk.js.map": "/TripMate/static/js/453.549189ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ffa3970.css",
-    "static/js/main.3e821b16.js"
+    "static/css/main.6468424e.css",
+    "static/js/main.4925799d.js"
   ]
 }
